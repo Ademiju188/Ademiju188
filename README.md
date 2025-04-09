@@ -1,27 +1,54 @@
-Hi there! 👋
+# 👋 Hi there!
 
-I'm Emmanuel Ademiju — a ✨ Software Engineer ✨ with a passion for building scalable and impactful digital solutions.
+I'm **Emmanuel Ademiju** — a ✨ Software Engineer ✨ with a passion for building scalable and impactful digital solutions.
 
-💻 Tech Stack: Proficient in PHP (Laravel), JavaScript (ReactJS), Vue, Inertia.
-🚀 Focus Areas: Specialized in B2B SaaS application development and architecture, delivering efficient, user-centric solutions.
-🌍 Interests: Exploring opportunities in E-commerce, Fintech, HealthTech, and Trading Systems.
-🛠️ Skills: Modern Testing Frameworks, and robust software design principles.
+---
 
-Why Work With Me?
-🎯 Problem Solver: I thrive on tackling complex challenges and delivering clear, efficient solutions.
-🤝 Collaborative: A team player passionate about building meaningful connections while creating impactful tech.
-💡 Always Learning: Technology evolves fast, and so do I constantly improving and acquiring new skills.
+### 💻 Tech Stack
+- **Languages & Frameworks**: PHP (Laravel), JavaScript (ReactJS), Vue, Inertia.js
+- **Tools & Principles**: Modern Testing Frameworks, Robust Software Design, RESTful APIs, SPA Architecture
 
-## 🚀 Projects
-- [🏪 E-commerce SPA](https://solangeluxuryhair.com)
-- [⚡ VTU API Platform](https://vastel.io)
-- [⚡ Health Care](https://nadia.vivianehealth.com)
-- [⚡ College MGT System](https://sdason.csm.ng)
-- [⚡ School Ledger](https://schoolledger.xyz)
-And Many More
+---
 
-📬 Let's Connect:
+### 🚀 Focus Areas
+- B2B SaaS Application Development & Architecture  
+- Clean, Scalable, and User-Centric Digital Solutions
 
-Email: ademijuemmanuel188@gmail.com
-WhatsApp: +234 813 097 4397
-Let’s build something amazing together! 🚀
+---
+
+### 🌍 Interests
+- E-commerce  
+- Fintech  
+- HealthTech  
+- Trading Systems
+
+---
+
+### 🤝 Why Work With Me?
+
+- 🎯 **Problem Solver** – I love untangling complex challenges into elegant solutions.  
+- 🤝 **Collaborative** – A team player passionate about people and purpose-driven development.  
+- 💡 **Always Learning** – Staying current in a fast-moving industry is key to my growth and your success.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🏪 E-commerce SPA](https://solangeluxuryhair.com) | Modern online storefront built with React and Laravel |
+| [⚡ VTU API Platform](https://vastel.io) | Utility payment gateway for data, airtime, cable & bills |
+| [⚕️ HealthCare Portal](https://nadia.vivianehealth.com) | Patient care platform for online health services |
+| [🏫 College MGT System](https://sdason.csm.ng) | End-to-end student & admin management system |
+| [📊 School Ledger](https://schoolledger.xyz) | Digital accounting system tailored for schools |
+
+> 💡 _And many more available upon request or GitHub repos_
+
+---
+
+### 📬 Let’s Connect
+
+- **📧 Email**: ademijuemmanuel188@gmail.com  
+- **💬 WhatsApp**: +234 813 097 4397  
+
+Let's build something **amazing** together! 🚀
