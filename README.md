@@ -12,7 +12,7 @@ I'm **Emmanuel Ademiju** — a ✨ Software Engineer ✨ with a passion for buil
 
 ### 🚀 Focus Areas
 - B2B SaaS Application Development & Architecture  
-- Clean, Scalable, and User-Centric Digital Solutions
+- Clean, Scalable and User-Centric Digital Solutions
 
 ---
 
