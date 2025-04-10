@@ -21,6 +21,7 @@ I'm **Emmanuel Ademiju** — a ✨ Software Engineer ✨ with a passion for buil
 - Fintech  
 - HealthTech  
 - Trading Systems
+- E-Menus
 
 ---
 
@@ -41,6 +42,9 @@ I'm **Emmanuel Ademiju** — a ✨ Software Engineer ✨ with a passion for buil
 | [⚕️ HealthCare Portal](https://nadia.vivianehealth.com) | Patient care platform for online health services |
 | [🏫 College MGT System](https://sdason.csm.ng) | End-to-end student & admin management system |
 | [📊 School Ledger](https://schoolledger.xyz) | Digital accounting system tailored for schools |
+| [📊 E-menu V1](https://chillingchow.lexispos.online/) | A digital restaurant menu system allowing customers to browse, order, and manage meals seamlessly. |
+| [📊 E-menu V2](https://emenu.stanosuites.online) | An upgraded version of the E-menu system with improved UI/UX. |
+
 
 > 💡 _And many more available upon request or GitHub repos_
 
